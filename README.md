@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👯 I’m looking to collaborate on making new project.
+- 📫 How to reach me: instagram DM with message 'I sent DM from seeing your Github Account'
+- ⚡ Fun fact: I'm now on summer vacation.
+
+
 <!--
 **gyfolder/gyfolder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
