@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Here is my [blog](https://gyfolder.github.io)
 - 👯 I’m looking to collaborate on making new project.
 - 📫 How to reach me: instagram DM with message 'I sent DM from seeing your Github Account'
 - ⚡ Fun fact: I'm now on summer vacation.
